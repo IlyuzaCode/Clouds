@@ -9,7 +9,7 @@ body {
   grid-template-rows: auto 1fr auto;
   justify-items: center;
   min-height: 100vh;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .header {
